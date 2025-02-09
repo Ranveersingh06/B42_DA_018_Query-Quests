@@ -108,9 +108,5 @@ Future Enhancements
 •	Real-time dashboard integration.
 •	Advanced predictive models for user behavior forecasting.
 •	Comprehensive device performance benchmarking.
-________________________________________
-Support
-For queries or issues, please contact:
-•	Email: support@mobileanalytics.com
-•	Phone: +1-800-555-0199
+
 
